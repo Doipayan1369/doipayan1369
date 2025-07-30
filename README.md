@@ -7,28 +7,28 @@
 ---
 
 ### 🔭 <span style="color:#FF5733;">CS student at IIT Madras</span>  
-(Yes, the nerd badge is real — and proudly worn.)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Yes, the nerd badge is official)
 
-### 🌱 I love studying about <strong>AI</strong> & <strong>Business</strong>  
-Because why not teach machines *and* make money while doing it?
+### 📊 I love learning about <strong>AI</strong> & <strong>Business</strong>  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Because why not teach machines *and* make money while doing it?
 
 ### 🤖 Built a bunch of AI agents  
-They probably understand me better than my friends do. No offense.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;They probably know me better than I know myself.
 
 ### 🤔 Created some fun side projects  
-Some helpful, some weird... all worth the Git commit.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Some are helpful, some are weird
 
 ### 💬 I *say* I relax with a book and coffee...  
-But we all know CS students don’t really have “free time.”
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But we all know CS students don’t really have “free time.”
 
 ---
 
 <h2>☕ Wanna Connect?</h2>
 
 <p>
-Slide into my <a href="https://www.instagram.com/maybe_abir.me?igsh=djBxY3Fqc3UwMmE2" target="_blank"><strong>Instagram DMs</strong></a> with a cup of coffee (virtual or real — your choice).  
-Let’s talk <strong>AI</strong>, <strong>startups</strong>, or just rant about bugs and broken code.  
+Slide into my <a href="https://www.instagram.com/maybe_abir.me?igsh=djBxY3Fqc3UwMmE2" target="_blank"><strong>Instagram DMs</strong></a> with a cup of coffee.  
+Let’s talk <strong>AI</strong>, <strong>startups</strong>, or just rant about life together.  
 I’m always up for a good chat and some cool collabs.  
 </p>
 
-<p><i>Will be waiting...</i> 🤝</p>
+<hr style="height:2px;border:none;background:linear-gradient(to right, rgba(0,0,0,0), #999, rgba(0,0,0,0)); margin: 40px 0;" />
