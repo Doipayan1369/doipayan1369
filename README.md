@@ -1,24 +1,51 @@
-<h1 align="center">Hey there, You can call me <span style="color:#F58A07;">"ABIR"</span> 👋</h1>
+# Hi, I'm Abir 👋
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40" height="40"/>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
+[![Portfolio](https://img.shields.io/badge/Portfolio-2563EB?style=flat&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@domain.com)
+
+Computer Science student at **IIT Madras** focused on developing autonomous AI agents, machine learning workflows, and scalable software solutions. Passionate about turning complex AI research into viable, real-world products.
 
 ---
 
-### 🔭 <span style="color:#FF5733;">CS student at IIT Madras</span>  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(Yes, the nerd badge is official)
+### 🚀 Highlights
 
-### 📊 I love learning about <strong>AI</strong> & <strong>Business</strong>  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Because why not teach machines *and* make money while doing it?
+* 🎓 **Academics:** CS Undergrad at the Indian Institute of Technology Madras (IITM).
+* 🤖 **Current Focus:** Researching multi-agent architectures, LLM orchestration, and autonomous systems.
+* 🛠️ **Building:** Scalable backend pipelines and production-ready machine learning applications.
+* 📈 **Interests:** Applied AI, Distributed Systems, and Technology-driven Venture Strategy.
 
-### 🤖 Built a bunch of AI agents  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;They probably know me better than I know myself.
+---
 
-### 🤔 Created some fun side projects  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Some are helpful, some are weird
+### 🛠️ Tech Stack & Tooling
 
-### 💬 I *say* I relax with a book and coffee...  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description | Stack |
+| :--- | :--- | :--- |
+| **[AI Agent Framework](https://github.com/your-username/repo-name)** | Autonomous multi-agent pipeline for automated research and synthesis. | Python, LangChain, FastAPI |
+| **[Project Name 2](https://github.com/your-username/repo-name)** | High-throughput data processing engine with real-time vector search. | C++, PyTorch, Docker |
+| **[Project Name 3](https://github.com/your-username/repo-name)** | Full-stack analytics platform tracking business KPIs using predictive modeling. | Python, React, PostgreSQL |
+
+---
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+</p>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;But we all know CS students don’t really have “free time.”
 
 ---
